@@ -1,5 +1,5 @@
 # Google_FooBar_Challenges
-My Journey of Google Foo Bar Challenges
+My Journey to Google Foo Bar Challenges
 
 # Level 1 
 Braille Translation
